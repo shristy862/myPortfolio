@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End Development",
+    "description": "Building interactive, responsive, and visually appealing web interfaces using React.js, Next.js, HTML, CSS, JavaScript, Bootstrap, Material UI, and Redux."
+  },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End Development",
+    "description": "Developing efficient server-side applications, REST APIs, and authentication systems with Node.js, Express.js, Firebase, JWT, and OAuth."
+  },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "Database & Cloud Services",
+    "description": "Implementing secure and scalable databases with cloud integration for optimized data handling using MongoDB, SQL, Firebase, AWS S3, EC2, SNS, and Elastic Beanstalk."
+  },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Version Control & Deployment",
+    "description": "Using Git, GitHub, and AWS for managing source code, team collaboration, and cloud deployment for efficient and streamlined development workflows."
+  }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/myplaceholder2.png",
+      "title": "Easy Job",
+      "description": "A job listing platform with secure authentication, role-based access, and real-time updates using MongoDB, Node.js, and AWS S3 for optimized data handling.",
+      "link": "https://github.com/shristy862/job-Portal"
+    },
+    {
+      "id": "2",
+      "src": "./img/myplaceholder3.png",
+      "title": "Role-Based Authentication System",
+      "description": "Implemented secure user access control with JWT, Auth, and RBAC, ensuring restricted permissions for different user roles in a full-stack web application.",
+      "link": "https://github.com/shristy862/userManagement"
+    },
+    {
+      "id": "3",
+      "src": "./img/myplaceholder1.png",
+      "title": "Loan Management App",
+      "description": "A financial platform enabling secure login, loan tracking, and transaction management with real-time updates using Node.js, Express.js, Firebase",
+      "link": "https://github.com/shristy862/loanManagement"
+    }
+  ],
+  "testimonial": [
+  {
+    "id": "1",
+    "count": "5",
+    "src": "./img/avatar-image.png",
+    "description": "Easy Job App made our hiring process efficient with its intuitive job listings and role-based access. It’s a well-structured and scalable solution that simplifies recruitment workflows.",
+    "author_name": "Rohan Sharma",
+    "author_designation": "HR Manager, TechHire India"
+  },
+  {
+    "id": "2",
+    "count": "5",
+    "src": "./img/avatar-image-1.png",
+    "description": "The Loan Management App provided a seamless way to track loans with secure authentication . It features an intuitive dashboard for users to monitor their loan status efficiently",
+    "author_name": "Neha Verma",
+    "author_designation": "Finance Consultant, LendingPro India"
+  },
+  {
+    "id": "3",
+    "count": "5",
+    "src": "./img/avatar-image-2.png",
+    "description": "The Role-Based Authentication System ensured secure access control with dynamic permissions. Its JWT and OAuth integration made authentication smooth and highly secure.",
+    "author_name": "Amit Raj",
+    "author_designation": "Cybersecurity Lead, SecureTech Solutions"
+  }
+]
+}
