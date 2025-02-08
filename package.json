@@ -14,10 +14,9 @@
     "react-scroll": "^1.8.9",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+ "scripts": {
   "start": "react-scripts start",
-  "build": "react-scripts build",
-  "postinstall": "npm install && npm rebuild esbuild && npm run build"
+  "build": "react-scripts build"
 }
 ,
   "browserslist": {
